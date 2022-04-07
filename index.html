@@ -11,7 +11,7 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
-        {
+        * {
             box-sizing: border-box;
         }
 
@@ -35,7 +35,7 @@
         }
 
         .rightcolumn{
-            float: left;
+            float: right;
             width: 25%;
             padding-left: 20px;
         }
@@ -46,7 +46,7 @@
             margin-top: 20px;
         }
 
-        .row::after{
+        .row::before{
             content: "";
             display: table;
             clear: both;
@@ -68,18 +68,16 @@
 
     </style>
 </head>
-
 <body>
     <div class="header">
     <h1>Microsoft Software and Systems Academy</h1>
     <h2>Cloud Application Development</h2>
     </div>
-    <div class="rightcolumn, card">
-        <h2>About Me</h2>
-        <p>I am an active duty Marine in the process of transitioning out of the military after 11 years of service. My military career began as a Finance Technician but, after 5 years I transitioned to become a Contract Specialist. 
-            <br><br>Currently, I am participating in the MSSA Skillbridge and sharing my journey with you all. I had ZERO technical background prior to the program and look forward to securing a job offer in the tech field upon my end of service this summer.</p>
-    </div>
-        <article class="row, leftcolumn, card">
+    
+    <div class="row">
+        <div class="leftcolumn">
+            <div class="card">
+        <article>
             <h3>Week 3</h3>
             <iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
             <p>Microsoft Transact-SQL occupied my brain throughout this week. SQL is a standard language for accessing and manipulating databases. While it was nice to get a break from C#, I am ready to get back to it! SQL is not my forte and a career in data is likely not in my future. 
@@ -103,7 +101,9 @@
             <br><br>Until next time amigos! 
             </p>
         </article>
-        <article class="row, leftcolumn, card">
+    </div>
+    <div class="card">
+        <article>
             <h3>Week 2</h3>
             <iframe src="https://giphy.com/embed/WRQBXSCnEFJIuxktnw" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/math-lady-meme-WRQBXSCnEFJIuxktnw">via GIPHY</a></p>
             <p>This week my brain worked overtime as I grappled with understanding object-oriented programming concepts. Between encapsulation, inheritance, and polymorphism, I didn’t have enough brain space to think about anything else. Technical instruction days are filled with frustration and challenges but, also a lot of growth. </p>
@@ -114,7 +114,9 @@
             <p>Until next week fellow humans!</p>
             <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17112e81-2f3e-4466-b323-7685e7f7077a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
         </article>
-        <article class="row, leftcolumn, card">
+    </div>
+    <div class="card">
+        <article>
             <h3>Week 1</h3>
             <iframe src="https://giphy.com/embed/QMHoU66sBXqqLqYvGO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/this-is-fine-QMHoU66sBXqqLqYvGO">via GIPHY</a></p>
             <p>Welcome to my blog! I will be sharing short, weekly posts throughout my time with Microsoft Software and Systems Academy. I am enrolled in the Cloud Application Development path. Let’s jump right in! 
@@ -146,8 +148,18 @@
             <br><br>
             Until next week fellow humans!</p>
         </article>
+    </div>
+</div>
+</div>
     </section>
-    <h2 class="footer"><a href="https://www.linkedin.com/in/padgy-soltis/">Connect on LinkedIn</a></h2>
+    <div class="rightcolumn">
+        <div class="card">
+        <h2>About Me</h2>
+        <p>I am an active duty Marine in the process of transitioning out of the military after 11 years of service. My military career began as a Finance Technician but, after 5 years I transitioned to become a Contract Specialist. 
+            <br><br>Currently, I am participating in the MSSA Skillbridge and sharing my journey with you all. I had ZERO technical background prior to the program and look forward to securing a job offer in the tech field upon my end of service this summer.</p>
+    </div>
+
+<footer class="footer"><a href="https://www.linkedin.com/in/padgy-soltis/">Connect on LinkedIn</a></footer>
 
 </body>
 </html>
