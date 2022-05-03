@@ -6,20 +6,23 @@
 
 body{
     font-family: 'Josefin Sans', sans-serif;
-    color: #E9E7DA;
+    color: white;
     padding: 20px;
-    background: #373F27;
+    background: #5CA4A9;
 }
 
 header{
     text-align: center;
-    color: #E9E7DA;
-    background: #636B46;
-    padding: 20px;
+    color: white;
+    background: #5CA4A9;
+}
+
+header h1{
+    font-size: 50px;
 }
 
 .card{
-    background-color: #636B46;
+    background-color: #9bc1bc;
     padding: 20px;
     margin-top: 20px;
 }
@@ -27,8 +30,13 @@ header{
 footer{
     padding: 20px;
     text-align: center;
-    background: #CDA34F;
+    background: #f4f1bb;
     margin-top: 20px;
+}
+
+footer a{
+    color: #5CA4A9;
+    font-size: 20px;
 }
 
 @media screen and (max-width: 800px) {
