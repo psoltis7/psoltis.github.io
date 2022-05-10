@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #2D3E4E;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #E09E50;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #E09E50;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 10px;
+  width: 100%;
+  background-color: #E09E50;
+  margin-top: 30px;
+}
+.footer a {
+  padding: 20px;
+  align-items: center;
+}
+.projects img {
+  max-width: 600px;
+  height: auto;
+}
+.resume img {
+  max-width: 600px;
+  height: auto;
+}
+.home img {
+  max-width: 300px; 
+  border-radius: 50%;
+  display: flex;
+  float: left;
+  padding-right: 70px;
+  padding-bottom: 10px;
+}
+.home h1 {
+  padding-bottom: 50px;
+}
+.home p {
+  padding: 30px;
+  font-size: 20px;
+  text-align: left;
+  line-height: 1.2;
+}
+.blog p {
+  line-height: 1.2;
+  text-align: left;
+  padding: 15px;
+}
