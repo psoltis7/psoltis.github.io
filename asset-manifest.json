@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.61c931c3.css",
-    "main.js": "/static/js/main.e739affd.js",
-    "static/media/under-construction.jpg": "/static/media/under-construction.79dece238de8e52a3490.jpg",
-    "static/media/Padgy.jpg": "/static/media/Padgy.e40a5466cfc96143d19a.jpg",
-    "static/media/coming-soon.jpg": "/static/media/coming-soon.b9c7d2e937ce9eaf9881.jpg",
-    "index.html": "/index.html",
-    "main.61c931c3.css.map": "/static/css/main.61c931c3.css.map",
-    "main.e739affd.js.map": "/static/js/main.e739affd.js.map"
+    "main.css": "/psoltis7.github.io/static/css/main.61c931c3.css",
+    "main.js": "/psoltis7.github.io/static/js/main.8cb91b9c.js",
+    "static/media/under-construction.jpg": "/psoltis7.github.io/static/media/under-construction.79dece238de8e52a3490.jpg",
+    "static/media/Padgy.jpg": "/psoltis7.github.io/static/media/Padgy.e40a5466cfc96143d19a.jpg",
+    "static/media/coming-soon.jpg": "/psoltis7.github.io/static/media/coming-soon.b9c7d2e937ce9eaf9881.jpg",
+    "index.html": "/psoltis7.github.io/index.html",
+    "main.61c931c3.css.map": "/psoltis7.github.io/static/css/main.61c931c3.css.map",
+    "main.8cb91b9c.js.map": "/psoltis7.github.io/static/js/main.8cb91b9c.js.map"
   },
   "entrypoints": [
     "static/css/main.61c931c3.css",
-    "static/js/main.e739affd.js"
+    "static/js/main.8cb91b9c.js"
   ]
 }
