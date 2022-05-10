@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pswebsitev1/build/static/css/main.61c931c3.css",
-    "main.js": "/pswebsitev1/build/static/js/main.f5afd4b3.js",
-    "static/media/under-construction.jpg": "/pswebsitev1/build/static/media/under-construction.79dece238de8e52a3490.jpg",
-    "static/media/Padgy.jpg": "/pswebsitev1/build/static/media/Padgy.e40a5466cfc96143d19a.jpg",
-    "static/media/coming-soon.jpg": "/pswebsitev1/build/static/media/coming-soon.b9c7d2e937ce9eaf9881.jpg",
-    "index.html": "/pswebsitev1/build/index.html",
-    "main.61c931c3.css.map": "/pswebsitev1/build/static/css/main.61c931c3.css.map",
-    "main.f5afd4b3.js.map": "/pswebsitev1/build/static/js/main.f5afd4b3.js.map"
+    "main.css": "/pswebsitev1/static/css/main.61c931c3.css",
+    "main.js": "/pswebsitev1/static/js/main.666ac167.js",
+    "static/media/under-construction.jpg": "/pswebsitev1/static/media/under-construction.79dece238de8e52a3490.jpg",
+    "static/media/Padgy.jpg": "/pswebsitev1/static/media/Padgy.e40a5466cfc96143d19a.jpg",
+    "static/media/coming-soon.jpg": "/pswebsitev1/static/media/coming-soon.b9c7d2e937ce9eaf9881.jpg",
+    "index.html": "/pswebsitev1/index.html",
+    "main.61c931c3.css.map": "/pswebsitev1/static/css/main.61c931c3.css.map",
+    "main.666ac167.js.map": "/pswebsitev1/static/js/main.666ac167.js.map"
   },
   "entrypoints": [
     "static/css/main.61c931c3.css",
-    "static/js/main.f5afd4b3.js"
+    "static/js/main.666ac167.js"
   ]
 }
