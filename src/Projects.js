@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from 'react';
 import Coming from './images/coming-soon.jpg';
 
 const Projects = () => {
