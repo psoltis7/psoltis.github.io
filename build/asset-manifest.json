@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.61c931c3.css",
-    "main.js": "/static/js/main.7556ae3e.js",
+    "main.css": "/static/css/main.77d7d6c4.css",
+    "main.js": "/static/js/main.60015605.js",
     "static/media/under-construction.jpg": "/static/media/under-construction.79dece238de8e52a3490.jpg",
     "static/media/Padgy.jpg": "/static/media/Padgy.e40a5466cfc96143d19a.jpg",
     "static/media/coming-soon.jpg": "/static/media/coming-soon.b9c7d2e937ce9eaf9881.jpg",
     "index.html": "/index.html",
-    "main.61c931c3.css.map": "/static/css/main.61c931c3.css.map",
-    "main.7556ae3e.js.map": "/static/js/main.7556ae3e.js.map"
+    "main.77d7d6c4.css.map": "/static/css/main.77d7d6c4.css.map",
+    "main.60015605.js.map": "/static/js/main.60015605.js.map"
   },
   "entrypoints": [
-    "static/css/main.61c931c3.css",
-    "static/js/main.7556ae3e.js"
+    "static/css/main.77d7d6c4.css",
+    "static/js/main.60015605.js"
   ]
 }
